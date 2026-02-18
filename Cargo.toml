@@ -1,0 +1,8 @@
+[package]
+name = "statebits"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "A deterministic, auditable state reducer for federated learning"
+
+[dependencies]
